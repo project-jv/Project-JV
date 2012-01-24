@@ -1,0 +1,27 @@
+README
+
+Revision History
+
+Authored	01/24/2012			Edward A Averill, III
+
+PROJECT JV
+A PLUGGABLE, DOMAIN-EXPERT AI ASSISTANT
+
+Project JV, concepualized and managed by Kiko Serna, is a project to develop
+an artifical-intelligence enhanced, domain-expert computer assistant.  The
+goal is also to make all core functionality platform-independent so that
+Project JV can be ported to any OS supporting the implementation language.
+
+Project JV is being developed on Windows using Cygwin, Netbeans, and the
+Gnu toolchain.  Microsoft Visual Studio is being used to implement OS-
+specific functionalty such as speech input and speech output.
+
+THE DIRECTORY TREE
+
+reference_code			Initial technology from other open-source projects
+project_documents		Documents produced specifically for this project
+
+MORE INFORMATION
+
+Project JV blog			http://projectjvaustin.blogspot.com/
+Project JV email		project_jv@woolyloach.com
